@@ -1,0 +1,4 @@
+train: /home/cse/Documents/MdSourav/DNN/Assignment7/WIDER Face Dataset/split_data/train/images
+val: /home/cse/Documents/MdSourav/DNN/Assignment7/WIDER Face Dataset/split_data/val/images
+nc: 1
+names: ['face']
